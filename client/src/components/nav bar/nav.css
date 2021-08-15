@@ -1,0 +1,35 @@
+.nav {
+    background-color: #bb7244;
+}
+
+.navbar {
+    position: fixed !important;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    z-index: 99 !important;
+}
+
+.navbar.navbar-dark .navbar-nav .nav-item.active > .nav-link {
+    background-color: rgba(255, 255, 255, 0) !important;
+}
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 1.5vw;
+}
+
+.navbar.navbar-dark .navbar-nav .nav-item .nav-link {
+    color: #000 !important;
+    transition: .35s;
+}
+
+.hed-cart{
+    color: #bb7244 ;
+}

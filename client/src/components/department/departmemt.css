@@ -1,0 +1,44 @@
+.rap {
+    margin-left: 30px;
+    padding-top: 8%;
+}
+
+.ard {
+    float: left;
+    margin-right: 25px;
+
+    width: 340px;
+}
+
+.mg {
+    height: 470px;
+    position: relative;
+}
+
+.body {
+    position: absolute;
+    top: 40%;
+    width: 100%;
+    left: 0px;
+}
+
+.button-dep {
+    width: 100%;
+    padding-top: 1.5%;
+    padding-bottom: 1.5%;
+    font-size: 1.5vw;
+    background-color: #72b495 ;
+    margin-left: 0%;
+    margin-bottom: 5%;
+    /* border-radius: 5vw; */
+    border: 2px solid #72b495 ;
+    color: white;
+    box-shadow: 0 3px 6px 0 rgb(0 0 0 / 10%);
+    font-family: "Raleway-Regular";
+}
+
+.button-dep:hover {
+    border: 2px solid #72b495 ;
+    background-color: rgb(255, 255, 255);
+    color: #72b495 ;
+}

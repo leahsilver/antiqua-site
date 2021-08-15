@@ -1,0 +1,83 @@
+.respond {
+    width: 80%;
+    margin-left: 10%;
+    margin-bottom: 1%;
+    border: 1px solid #bb7244;
+    padding: 2%;
+}
+
+.hedopinion {
+    color: #bb7244;
+    text-align: left;
+    margin-top: 6%;
+    font-size: 3vw;
+    margin-bottom: 0.5%;
+    margin-left: 10%;
+    display: inline-block !important;
+}
+
+.btn-add-respond {
+    background-color: #bb7244;
+    color: white;
+    border: 2px solid #bb7244;
+    padding: 2%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    margin-left: 57%;
+}
+
+.btn-add-respond:hover {
+    background-color: rgb(255, 255, 255) !important;
+    color: #bb7244;
+}
+
+.area-form-control {
+  width: 88%;
+  margin-left: 4%;
+  border: 0px;
+  border-bottom: 2px solid #bb7244;
+}
+
+.btn-send2 {
+    background-color: #bb7244;
+    color: white;
+    border: 2px solid #bb7244;
+    padding: 3%;
+    padding-top: 0.5%;
+    padding-bottom: 0.5%;
+    margin-right: 2%;
+    margin-left: 70%;
+    margin-bottom: 1%;
+}
+
+.btn-send2:hover {
+    background-color: rgb(255, 255, 255) !important;
+    color: #bb7244;
+}
+
+.btn-send3 {
+    background-color: #bb7244;
+    color: white;
+    border: 2px solid #bb7244;
+    padding: 3%;
+    padding-top: 0.5%;
+    padding-bottom: 0.5%;
+}
+
+.btn-send3:hover {
+    background-color: rgb(255, 255, 255) !important;
+    color: #bb7244;
+}
+
+.half-rating-read1 {
+  margin-left: 10%;
+  margin-bottom: 2%;
+}
+
+.aver-p {
+    display: block;
+    margin-left: 10%;
+    margin-bottom: 3px !important;
+    font-size: 2vw;
+    color: #bb7244 ;
+}

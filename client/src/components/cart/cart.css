@@ -1,0 +1,50 @@
+.title {
+  border-bottom: 2px solid rgb(224, 223, 223);
+  grid-area: header;
+  white-space: nowrap;
+}
+.nam {
+  display: inline;
+  margin-left: 5px;
+  font-size: 1vw;
+}
+.image {
+  max-width: 200%;
+  max-height: 200%;
+  margin-right: 0px;
+  display: grid;
+  grid-template-columns: 0.1fr 0.9fr 1fr 1.5fr;
+  grid-template-rows: 1fr 1fr;
+  gap: 2px 2px;
+  grid-template-areas:
+    ". . ."
+    ". . .";
+  grid-area: img;
+  
+}
+
+.pric {
+  margin-right: 5px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
+  gap: 0px 0px;
+  grid-template-areas:
+    ". . ."
+    ". . .";
+  grid-area: price;
+  color:  #bb7244;
+font-size: 1.2vw;
+}
+
+.wrap {
+  margin-top: 20px;
+  display: grid;
+  grid-template-columns: 0.08fr 1.3fr 0.4fr 0.2fr 0.1fr;
+  grid-template-rows: 0.1fr 1fr 0.3fr;
+  gap: 12px 15px;
+  grid-template-areas:
+    ". header header img"
+    ". . price img"
+    ". . . img";
+}

@@ -1,0 +1,97 @@
+.hedforum {
+    color: #bb7244;
+    text-align: left;
+    margin-top: 6%;
+    font-size: 3vw;
+    margin-bottom: 2%;
+    margin-left: 7%;
+    display: inline-block !important;
+}
+
+.add-subject {
+    display: inline-block !important;
+    text-align: right;
+    width: 75%;
+}
+
+.all-forum {
+    justify-content: space-between;
+}
+
+.card-item-forum {
+    box-shadow: none;
+}
+
+.card-item-forum {
+    width: 86%;
+    background-color: rgb(240, 240, 240);
+    margin-left: 7%;
+    margin-bottom: 3%;
+    padding-left: 5%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    border-top: 3px solid #bb7244;
+    display: inline-block !important;
+}
+
+.card-item-forum:hover {
+    background-color: #bb724436;
+}
+
+.div-card-forum {
+    width: 100%;
+}
+
+.p-name {
+    display: inline-block !important;
+    color: #3b3530;
+    font-size: 1.5vw;
+    width: 25%;
+    padding-left: 5%;
+}
+
+.p-subject {
+    display: inline-block !important;
+    color: #bb7244;
+    font-size: 1.8vw;
+    width: 25%;
+}
+
+.p-saw {
+    display: inline-block !important;
+    color: #3b3530;
+    font-size: 1.5vw;
+    width: 25%;
+    padding-left: 5%;
+}
+
+.p-respond {
+    display: inline-block !important;
+    color: #3b3530;
+    font-size: 1.5vw;
+    width: 25%;
+    padding-left: 5%;
+}
+
+.p-icon {
+    margin-bottom: 0px !important;
+}
+
+.btn-add-subject {
+    background-color: #72b495;
+    color: white;
+    border: 2px solid #72b495;
+    padding: 3%;
+    padding-top: 1.5%;
+    padding-bottom: 1.5%;
+}
+
+.btn-add-subject:hover {
+    background-color: rgb(240, 240, 240) !important;
+    color: #bb7244;
+}
+
+.div-add-sabject-all {
+    width: 86%;
+    margin-left: 7%;
+}

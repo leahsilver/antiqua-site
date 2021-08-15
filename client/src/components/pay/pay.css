@@ -1,0 +1,15 @@
+h1 {
+  padding-bottom: 3%;
+}
+.order {
+  margin-left: 10%;
+}
+
+.option {
+  position: absolute;
+  left: 89%;
+}
+/* input {
+  position: absolute;
+  left: 0%;
+} */

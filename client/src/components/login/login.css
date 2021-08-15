@@ -1,0 +1,27 @@
+.button {
+  margin-top: 25px;
+  margin-bottom: 25px;
+  margin-left: 28%;
+  padding-left: 80px;
+  padding-right: 80px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  background-color: #bb7244;
+  border: 2px solid #bb7244;
+  color: white;
+}
+
+.button:hover {
+  border: 2px solid #bb7244;
+  background-color: white;
+  color: #bb7244;
+}
+
+.anote {
+  font-size: 14px;
+  color: red;
+}
+
+.wra {
+  margin-left: 9%;
+}

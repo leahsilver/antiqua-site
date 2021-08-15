@@ -1,0 +1,19 @@
+.eerror {
+  font-size: 12px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  color: red;
+}
+
+.input {
+  border: none;
+  border-bottom: 1px solid black;
+  width: 80%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+}
+.input:focus {
+  background-color: rgb(236, 235, 235);
+  outline: none;
+}

@@ -1,0 +1,47 @@
+.myButton {
+  width: 94%;
+  bottom: 1%;
+  position: absolute;
+  padding: 8px 30px;
+  background-color: #bb7244;
+  border: 2px solid #bb7244;
+  color: white;
+}
+
+.myButton:hover {
+  border: 2px solid #bb7244;
+  background-color: white;
+  color: #bb7244;
+}
+
+.card-body {
+  flex: 1 1 auto;
+  padding: 1rem 0.5rem !important;
+}
+
+.input {
+  margin-left: 27%;
+}
+
+.img {
+  margin-left: 14%;
+}
+
+.about {
+  position: relative;
+}
+
+.div-sold {
+  /* background-color: #bb7244; */
+  color: #bb4444;
+  font-size: 3vw;
+  left: 28%;
+  opacity: 100 !important;
+  font-family: "Raleway-Bold" !important;
+  bottom: 0.2%;
+  position: absolute;
+}
+
+.card-sold {
+  opacity: 0.3;
+}

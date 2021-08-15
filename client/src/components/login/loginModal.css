@@ -1,0 +1,52 @@
+.a {
+    position: absolute !important;
+    left: 85% !important;
+    top: 4%;
+}
+
+.buttonLogin {
+    background: none;
+    border: none;
+    padding: 10px;
+    display: block !important;
+    text-decoration: none !important;
+    font-size: 1.2vw;
+}
+
+.buttonLogin:hover {
+    background-color: rgb(236, 234, 234);
+}
+
+.btn-signin-up{
+  background-color: #72b495;
+  color: white;
+  border: 2px solid #72b495;
+  padding: 3%;
+  padding-top: 1.5%;
+  padding-bottom: 1.5%;
+  display: inline-block !important;
+  
+}
+
+.btn-login-up{
+  background-color: #72b495;
+  color: white;
+  border: 2px solid #72b495;
+  padding: 3%;
+  padding-top: 1.5%;
+  padding-bottom: 1.5%;
+  display: inline-block !important;
+  margin-right: 3% !important;
+}
+
+.modal-title {
+  margin-bottom: 0;
+  line-height: 1.5;
+  width: 100% !important;
+}
+
+.modal-body {
+  position: relative;
+  flex: 1 1 auto;
+  padding: 0.2rem !important;
+}

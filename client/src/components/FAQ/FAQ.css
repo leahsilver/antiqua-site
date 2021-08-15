@@ -1,0 +1,23 @@
+.all-faq{
+    width: 80%;
+    margin-left: 10%;
+    padding-top: 2%;
+}
+
+.styles_faq-row-wrapper__3vA1D .styles_faq-row__2YF3c {
+    display: flex;
+    justify-content: space-between;
+    padding: 5px 0;
+    border-bottom: 1px solid #bb7244 !important;
+    margin-bottom: 2%;
+}
+
+.hed-faq{
+    color: #bb7244;
+    text-align: left;
+    margin-top: 6%;
+    font-size: 3vw;
+    margin-bottom: 2%;
+    /* margin-left: 10%; */
+    display: inline-block !important; 
+}

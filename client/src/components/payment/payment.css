@@ -1,0 +1,53 @@
+.button {
+  margin-top: 25px;
+  margin-bottom: 25px;
+  margin-left: 17%;
+  padding-left: 80px;
+  padding-right: 80px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  background-color: #bb7244;
+  border: 2px solid #bb7244;
+  color: white;
+}
+
+.button:hover {
+  border: 2px solid #bb7244;
+  background-color: white;
+  color: #bb7244;
+}
+
+.anote {
+  font-size: 14px;
+  color: red;
+}
+.form {
+  margin-right: 20%;
+}
+h3 {
+  margin-left: 17%;
+  color: #bb7244;
+}
+
+input {
+  border: none;
+  border-bottom: 1px solid black;
+  width: 80%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+}
+input:focus {
+  background-color: rgb(236, 235, 235);
+  outline: none;
+}
+.login-wrap {
+margin-left: 9%;
+  display: grid;
+  grid-template-columns:50fr 50fr;
+  /* margin-top: 2%; */
+}
+
+.h1-pay{
+  margin-bottom: 3%;
+}

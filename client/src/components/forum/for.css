@@ -1,0 +1,129 @@
+.replay-div {
+  width: 80%;
+  margin-left: 10%;
+}
+
+.replay-div-p {
+  padding: 2%;
+  font-size: 1.2vw;
+  display: flex;
+  justify-content: space-between;
+  white-space: pre-wrap;
+}
+
+.trash-replay {
+  background-color: inherit;
+  border: 0px !important;
+  color: #bb7244;
+  font-size: 1.5vw;
+}
+
+.trash-replay:hover {
+  color: #bb72445b;
+}
+
+.hed-subject-in {
+  font-size: 3vw;
+  padding-top: 6vw;
+  color: #bb7244;
+  margin-left: 10%;
+}
+
+.btn-send {
+  background-color: #bb7244;
+  color: white;
+  border: 2px solid #bb7244;
+  padding: 3%;
+  padding-top: 0.5%;
+  padding-bottom: 0.5%;
+  margin-right: 2%;
+  margin-left: 76%;
+}
+
+.btn-send:hover {
+  background-color: rgb(255, 255, 255) !important;
+  color: #bb7244;
+}
+
+.btn-send1 {
+  background-color: #bb7244;
+  color: white;
+  border: 2px solid #bb7244;
+  padding: 3%;
+  padding-top: 0.5%;
+  padding-bottom: 0.5%;
+  margin-left: 3%;
+}
+
+.btn-send1:hover {
+  background-color: rgb(255, 255, 255) !important;
+  color: #bb7244;
+}
+
+.add-respond-new {
+  width: 80%;
+  margin-left: 10%;
+}
+
+.new-replay-btn {
+  background-color: #bb7244;
+  color: white;
+  border: 2px solid #bb7244;
+  padding: 3%;
+  padding-top: 0.5%;
+  padding-bottom: 0.5%;
+  width: 80%;
+  margin-left: 10%;
+  margin-top: 1%;
+}
+.new-replay-btn:hover {
+  background-color: rgb(255, 255, 255) !important;
+  color: #bb7244;
+}
+
+.quote-replay {
+  text-align: right;
+  background-color: #bb724400;
+  border: 0px !important;
+  padding-right: 2%;
+}
+
+.quote-replay:hover {
+  text-align: right;
+  background-color: #bb724400;
+  border: 0px !important;
+  color: #72b495;
+}
+
+.all-small-replay {
+  display: flex;
+  justify-content: space-between;
+  background-color: #bb72445b;
+  padding-top: 0.7%;
+  padding-bottom: 0.5%;
+  padding-left: 2%;
+}
+
+.text-muted-replay {
+  text-align: left;
+}
+
+.last-replay-all {
+  background-color: rgb(245, 245, 245);
+  margin: 1%;
+  padding: 1%;
+
+  min-height: 3vw;
+}
+
+.last-replay-replay {
+  padding-left: 2%;
+  padding-top: 1%;
+  border-bottom: 1px solid #bb7244;
+  white-space: pre-wrap;
+}
+
+.last-replay-name {
+  padding-left: 1%;
+  padding-top: 1%;
+}
